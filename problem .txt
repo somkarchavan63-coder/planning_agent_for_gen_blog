@@ -1,0 +1,6 @@
+1.creating workflow was quit different and a little difficult to create but eventually i build workflow using ai
+2.deciding what kind of attributs are needed for every class(pydantic)
+3.injecting the nice prompts for every node or function so that when llm interact with specific function it understand properly
+4.using pydantic class for structured output and data validation
+5.dealing with new tool which is tavily for web search
+6.
