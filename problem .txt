@@ -4,4 +4,7 @@
 4.using pydantic class for structured output and data validation
 5.dealing with new tool which is tavily for web search
 6.intigretting with frontend
-using the thread concept for storage
+7.using the thread concept for storage
+8.selecting the models for generating the imgs and search the info in internet
+9.every bolg generation consume avg 8000 tokens .the free model dont support this much of tokens 
+10.needs to buy the subscription of the selected for for better performence
